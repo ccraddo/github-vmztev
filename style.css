@@ -37,3 +37,12 @@ body {
   background: rgb(235, 235, 235);
 }
 
+.location-container {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+}
+
+#map {
+  display: none;
+}
